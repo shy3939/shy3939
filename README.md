@@ -1,8 +1,7 @@
 <h1 align="center">【 Shy의 프로필 】</h1>
 
-<p align="center">
-  <strong>【 SHY's State Board 】</strong>
-</p>
+<h3 align="center">【 SHY's State Board 】</h3>
+
 <p align="center">
   <strong> Name : Shy </strong><br>
 </p>
@@ -11,11 +10,9 @@
   Gender : Male<br>
   Age : 25<br>
 
-  ---
+---
 
-<p align="center">
-  <strong>【 SHY's Teck Stack 】</strong>
-</p>
+<h3 align="center">【 SHY's Teck Stack 】</h3>
 
 <p align="center">
   <strong>C-language — LV. 6</strong><br>
