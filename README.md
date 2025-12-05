@@ -9,6 +9,9 @@
 <p align="center">
   Gender : Male<br>
   Age : 25<br>
+  AI소프트웨어학과 4학년 과정 이수 중<br>
+  게임 창작 동아리 1년 6개월 활동<br>
+  내일배움캠프 Unreal 과정 수강 중<br>
 
 <br>
 <hr>
